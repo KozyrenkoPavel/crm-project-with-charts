@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom';
-import { ThemeProvider, createTheme, ThemeC } from '@mui/material';
+import { ThemeProvider, createTheme } from '@mui/material';
 import App from './App.jsx';
 import './index.css';
 import './i18n.js';
