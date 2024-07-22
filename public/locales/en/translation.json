@@ -1,5 +1,8 @@
 {
   "main": {
-    "header": "Current work week"
+    "currWorkWeek": "Current work week",
+    "home": "Home",
+    "tasks": "Tasks",
+    "designer": "For the designer"
   }
 }
